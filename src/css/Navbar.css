@@ -1,0 +1,13 @@
+.container-navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #FFFFFF;
+    padding: 35px;
+}
+
+.div-li{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}

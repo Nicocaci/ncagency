@@ -1,0 +1,74 @@
+.servicios-container {
+    margin: 10%;
+}
+
+.grid-servicios {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-top: 2%;
+}
+
+.card-servicios {
+    border: 1px solid #fa8c76;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    gap: 10px;
+    padding: 30px;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px #a25490;
+    transition: transform 0.3s ease;
+    /* ← transición */
+}
+
+.card-servicios:hover {
+    transform: translateY(-10px);
+    /* ← movimiento */
+    background-color: #a254902a;
+}
+
+.titulo-card {
+    font-size: 2rem;
+}
+
+.ul-servicios {
+    padding: 15px;
+}
+
+.slider-text-container {
+    width: 100%; 
+    overflow: hidden;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.slider-track {
+    display: flex;
+    width: max-content;
+    animation: scrollText 90s linear infinite;
+}
+
+.slider-text {
+    font-size: 15rem;
+    color: #a25490;
+    font-weight: 600;
+    letter-spacing: 2px;
+    padding-right: 100px;
+    /* separa los bloques */
+    white-space: nowrap;
+}
+
+/* Animación continua */
+@keyframes scrollText {
+    from {
+        transform: translateX(0);
+    }
+
+    to {
+        transform: translateX(-50%);
+    }
+}

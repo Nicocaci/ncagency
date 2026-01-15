@@ -1,0 +1,31 @@
+.porque-container {
+    height: 100dvh;
+    margin: 10%;
+}
+.porque-grid{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items: center;
+    gap: 20px;
+    margin-top: 4%;
+}
+.card-porque{
+    border: 1px solid #a25490;
+    border-radius: 10px;
+    padding: 30px;
+    width: 70%;
+    cursor: pointer;
+    transition: 0.8s;
+}
+.card-porque:hover{
+    border-left: 2px solid #24ff07;
+    background-color: #a254902a;
+}
+.titulo-porque{
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+.sub-porque{
+    font-size: 0.9rem;
+    font-weight: 300;
+}

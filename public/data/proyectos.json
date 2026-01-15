@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "img": "/DMlogo.png",
+        "titulo": "Digital Shop || Distribuidora Online",
+        "sub": "E-commerce desarrollado desde 0",
+        "stats1": "+50 ventas online",
+        "tiempo": "1 mes",
+        "categoria": "E-commerce",
+        "imgPresentacion": "/dsFondo.png",
+        "introduccion": "Desde un diseño responsivo que garantiza la accesibilidad en todos los dispositivos hasta un sistema de contacto innovador que reduce el tiempo de llamada, nuestro enfoque no solo ha cumplido sino que ha superado las expectativas de los usuarios, proporcionando una experiencia digital fluida e impactante.",
+        "cliente": "DIGITAL SHOP es una distribuidora que brinda productos de calidad y siempre manteniendo el compromiso y la integridad. Todos estos sentimientos y principios hacen a nuestra esencia: un gran grupo de gente, trabajando para la gente. Ofreciendo en nuestros productos y servicios la más alta calidad y simpleza.",
+        "objetivo": "Se implementó una plataforma ecommerce robusta y fácil de usar, que integra un extenso catálogo de más de 1000 etiquetas. La solución cuenta con procesos de pago seguros y un sistema logístico eficiente para gestionar envíos a nivel nacional, asegurando que cada producto llegue en perfectas condiciones",
+        "solucion": "Se implementó una plataforma ecommerce robusta y fácil de usar, que integra un extenso catálogo de más de 1000 etiquetas. La solución cuenta con procesos de pago seguros y un sistema logístico eficiente para gestionar envíos a nivel nacional, asegurando que cada producto llegue en perfectas condiciones"
+    },
+    {
+        "id": 2,
+        "img": "/autosmart.png",
+        "titulo": "AutoSmart Subastas Online",
+        "sub": "App web de subastas en tiempo real",
+        "stats1": "+30 autos entregados",
+        "tiempo": "2 meses",
+        "categoria": "App web",
+        "imgPresentacion": "/autosappFondo.png",
+        "introduccion": "Desde un diseño responsivo que garantiza la accesibilidad en todos los dispositivos hasta un sistema de contacto innovador que reduce el tiempo de llamada, nuestro enfoque no solo ha cumplido sino que ha superado las expectativas de los usuarios, proporcionando una experiencia digital fluida e impactante.",
+        "cliente": "INDIV es una empresa que brinda productos de calidad y siempre manteniendo el compromiso y la integridad. Todos estos sentimientos y principios hacen a nuestra esencia: un gran grupo de gente, trabajando para la gente. Ofreciendo en nuestros productos y servicios la más alta calidad y simpleza.",
+        "objetivo": "Se implementó una plataforma ecommerce robusta y fácil de usar, que integra un extenso catálogo de más de 1000 etiquetas. La solución cuenta con procesos de pago seguros y un sistema logístico eficiente para gestionar envíos a nivel nacional, asegurando que cada producto llegue en perfectas condiciones",
+        "solucion": "Se implementó una plataforma ecommerce robusta y fácil de usar, que integra un extenso catálogo de más de 1000 etiquetas. La solución cuenta con procesos de pago seguros y un sistema logístico eficiente para gestionar envíos a nivel nacional, asegurando que cada producto llegue en perfectas condiciones"
+    },
+    {
+        "id": 3,
+        "img": "/onemore.png",
+        "titulo": "One More Points",
+        "sub": "Sistema de puntos y viajes",
+        "stats1": "+50 ventas online",
+        "tiempo": "1 mes",
+        "categoria": "App web",
+        "introduccion": "Desde un diseño responsivo que garantiza la accesibilidad en todos los dispositivos hasta un sistema de contacto innovador que reduce el tiempo de llamada, nuestro enfoque no solo ha cumplido sino que ha superado las expectativas de los usuarios, proporcionando una experiencia digital fluida e impactante.",
+        "cliente": "INDIV es una empresa que brinda productos de calidad y siempre manteniendo el compromiso y la integridad. Todos estos sentimientos y principios hacen a nuestra esencia: un gran grupo de gente, trabajando para la gente. Ofreciendo en nuestros productos y servicios la más alta calidad y simpleza.",
+        "objetivo": "Se implementó una plataforma ecommerce robusta y fácil de usar, que integra un extenso catálogo de más de 1000 etiquetas. La solución cuenta con procesos de pago seguros y un sistema logístico eficiente para gestionar envíos a nivel nacional, asegurando que cada producto llegue en perfectas condiciones",
+        "solucion": "Se implementó una plataforma ecommerce robusta y fácil de usar, que integra un extenso catálogo de más de 1000 etiquetas. La solución cuenta con procesos de pago seguros y un sistema logístico eficiente para gestionar envíos a nivel nacional, asegurando que cada producto llegue en perfectas condiciones"
+    },
+    {
+        "id": 4,
+        "img": "/nuskinFondo.png",
+        "titulo": "Asesora de ventas Nuskin",
+        "sub": "Landing de cosmetica",
+        "stats1": "+20 clientes nuevos",
+        "tiempo": "1 semana",
+        "categoria": "Desarrollo web",
+        "imgPresentacion": "/nuskinFondo.png",
+        "introduccion": "Desde un diseño responsivo que garantiza la accesibilidad en todos los dispositivos hasta un sistema de contacto innovador que reduce el tiempo de llamada, nuestro enfoque no solo ha cumplido sino que ha superado las expectativas de los usuarios, proporcionando una experiencia digital fluida e impactante.",
+        "cliente": "INDIV es una empresa que brinda productos de calidad y siempre manteniendo el compromiso y la integridad. Todos estos sentimientos y principios hacen a nuestra esencia: un gran grupo de gente, trabajando para la gente. Ofreciendo en nuestros productos y servicios la más alta calidad y simpleza.",
+        "objetivo": "Se implementó una plataforma ecommerce robusta y fácil de usar, que integra un extenso catálogo de más de 1000 etiquetas. La solución cuenta con procesos de pago seguros y un sistema logístico eficiente para gestionar envíos a nivel nacional, asegurando que cada producto llegue en perfectas condiciones",
+        "solucion": "Se implementó una plataforma ecommerce robusta y fácil de usar, que integra un extenso catálogo de más de 1000 etiquetas. La solución cuenta con procesos de pago seguros y un sistema logístico eficiente para gestionar envíos a nivel nacional, asegurando que cada producto llegue en perfectas condiciones"
+    }
+]

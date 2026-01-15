@@ -1,0 +1,90 @@
+.contacto-container {
+    height: 100dvh;
+    margin: 10%;
+    border-bottom: 1px solid #a25490;
+    background-image: url('/NCC.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.grid-contacto {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;  
+}
+.grid-contacto-1{
+    margin-top: 15px;
+}
+
+
+.form-contacto {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-contacto label {
+    margin: 15px 0 15px 0;
+    font-size: 1.3rem;
+    font-weight: 400;
+    color: grey;
+}
+
+.form-contacto input {
+    border-radius: 5px;
+    padding: 15px;
+    background-color: #a254901e;
+    border: none;
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 200;
+}
+
+.grid-form {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: end;
+    margin-top: 2%;
+}
+.btn-mensaje {
+    background-color: #a25490;
+    color: white;
+    padding: 15px;
+    width: 200px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: 0.7s;
+}
+.btn-mensaje:hover{
+    background-color: #a254905e;
+}
+
+.img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.img-pc{
+    border-radius: 10px;
+    box-shadow: 0 9px 9px black ;
+}
+.input-mensaje{
+    height: 200px;
+}
+textarea {
+    border-radius: 5px;
+    padding: 15px;
+    height: 200px;
+    background-color: #a254901e;
+    border: none;
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 200;
+    resize: none; /* opcional, mejora lectura */
+}

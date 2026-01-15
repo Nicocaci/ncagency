@@ -1,0 +1,80 @@
+.portfolio-container {
+    height: 100dvh;
+    margin: 10%;
+    margin-bottom: 5%;
+}
+
+.grid-portfolio {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-top: 2%;
+}
+
+.card-port {
+    width: 400px;
+    margin-bottom: 5%;
+    transition: transform 0.3s ease;
+    /* ← transición */
+}
+
+.card-port:hover {
+    transform: translateY(-10px);
+    
+    /* ← movimiento */
+}
+
+.img-port {
+    width: 100%;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.flex-port {
+    display: flex;
+    justify-content: space-between;
+}
+
+.port-stats {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.nombre-port {
+    font-weight: 600;
+    margin-bottom: 1%;
+}
+
+.descr-port {
+    font-weight: 200;
+    margin-bottom: 3%;
+}
+
+.btn-proyecto {
+    margin-bottom: 3%;
+    cursor: pointer;
+}
+
+.btn-proyecto:hover {
+    text-decoration: underline;
+
+}
+
+.flex-filtro {
+    display: flex;
+    gap: 30px;
+    margin-top: 2%;
+}
+
+.li-filtro {
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-weight: 200;
+
+}
+
+.li-filtro:hover {
+    transition: 1s;
+    color: #a25490;
+}
